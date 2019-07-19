@@ -1,0 +1,3 @@
+"?useTimezone=true&serverTimezone=UTC"
+
+ejemplo: private static final String url ="jdbc:mysql://localhost:3306/aulavirtual"+"?useTimezone=true&serverTimezone=UTC";
